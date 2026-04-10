@@ -3,7 +3,6 @@ pipeline {
 
     environment {
 	DOCKER_IMAGE = 'hello-world-python:latest' // Docker
-	image name
     }
 
     stages {
